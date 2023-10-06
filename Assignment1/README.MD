@@ -6,6 +6,6 @@
   #include<iostream.h>
   void main()
   {
-    printf("ABHAY BISHT"):;
+    printf("ABHAY BISHT");
   }
 ```
